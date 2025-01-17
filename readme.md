@@ -1,11 +1,17 @@
 **first Install necessary modules**<br/>
-  pip install pandas uvicorn sqlite3<br/><br/>
+```
+  pip install pandas uvicorn sqlite3
+```<br/><br/>
   
 **change folder to app directory**<br/>
-cd app<br/><br/>
+```
+cd app
+```<br/><br/>
 
 **run main.py file this will run file server locally**<br/>
-uvicorn main:app --reload<br/><br/>
+```
+uvicorn main:app --reload
+```<br/><br/>
 
 **to access this running application request on localhost port 8000**<br/>
 http://localhost:8000<br/>
