@@ -32,3 +32,7 @@ GET http://127.0.0.1:8000/investmentwithinbudget
 <!-- To Fetch all investments that are violating budget rules -->
 GET http://localhost:8000/investmentviolatingbudget
 GET http://127.0.0.1:8000/investmentviolatingbudget
+
+
+<!-- This is postman Documentation Link Refer incase of seeing output without running code -->
+https://documenter.getpostman.com/view/41151004/2sAYQajqn7
