@@ -2,17 +2,19 @@
 ```
 install pandas uvicorn sqlite3
 ```
-<br/><br/>
+<br/>
   
 **change folder to app directory**<br/>
 ```
 cd app
-```<br/><br/>
+```
+<br/>
 
 **run main.py file this will run file server locally**<br/>
 ```
 uvicorn main:app --reload
-```<br/><br/>
+```
+<br/>
 
 **to access this running application request on localhost port 8000**<br/>
 http://localhost:8000<br/>
