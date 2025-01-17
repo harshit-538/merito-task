@@ -1,5 +1,8 @@
 **first Install necessary modules**<br/>
-```pip install pandas uvicorn sqlite3```<br/><br/>
+```
+install pandas uvicorn sqlite3
+```
+<br/><br/>
   
 **change folder to app directory**<br/>
 ```
